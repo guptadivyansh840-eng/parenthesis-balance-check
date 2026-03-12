@@ -1,2 +1,2 @@
 # parenthesis-balance-check
-check for balance parenthesis in given expression
+using this code we can check if the parenthesis of any expression is balanced or not
